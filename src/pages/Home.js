@@ -21,7 +21,7 @@ const Home = () => {
     <button>Shop Now</button>
 
 </section>
-
+<br />
 <section id="feature" >
     <div className="fe-box">
     <div className='cut1' />
