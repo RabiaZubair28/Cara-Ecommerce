@@ -17,7 +17,7 @@ const Shop = () => {
 
   const filteredProducts = products.filter(item =>
     {
-      return (item.category === "men's clothing" || item.category === "women's clothing");
+      return (item.category === "men's clothing" || item.category === "women's clothing" || item.category === "jewelery");
     });
     console.log(filteredProducts);
   return <div>
