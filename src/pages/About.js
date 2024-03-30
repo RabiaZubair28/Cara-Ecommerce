@@ -110,7 +110,7 @@ const About = () => {
     <div className='pay' />
   </div>
   <div className="copyright">
-    <p>© 2023, Made By Rabia Zubair - Ecommerce Website</p>
+    <p>© 2024, Made By Rabia Zubair - Ecommerce Website</p>
   </div>
 </div>
 <Sidebar />
