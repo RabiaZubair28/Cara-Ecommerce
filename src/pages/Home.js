@@ -22,7 +22,7 @@ const Home = () => {
 
 </section>
 
-<section id="feature" className="section-p1">
+<section id="feature" >
     <div className="fe-box">
     <div className='cut1' />
         <h6>Free Shipping</h6>
